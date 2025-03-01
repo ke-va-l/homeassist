@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 sqlalchemy
-database
 pydentic
 typing
 jose
