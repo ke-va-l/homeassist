@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+database
+pydentic
+typing
+jose
+jwt
+passlib
+datetime
