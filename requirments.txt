@@ -8,3 +8,4 @@ jose
 jwt
 passlib
 datetime
+sqlite
